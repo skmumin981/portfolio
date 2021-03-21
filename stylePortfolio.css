@@ -549,7 +549,7 @@ iframe{
     text-align: center;
     margin-top: 10px;
 }
-.got::first-letter{color: blue;}
+.got::first-letter{color: red;}
 .last a{
     color: white;
     border-radius: 20px;
